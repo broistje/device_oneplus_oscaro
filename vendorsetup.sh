@@ -36,6 +36,6 @@ export OF_MAINTAINER="@broistje on telegram"
 export FOX_VERSION="R12.0"
 export FOX_BUILD_TYPE="Unofficial"
 
-add_lunch_combo omni_OP535DL1-user
-add_lunch_combo omni_OP535DL1-userdebug
-add_lunch_combo omni_OP535DL1-eng
+add_lunch_combo omni_oscaro-user
+add_lunch_combo omni_oscaro-userdebug
+add_lunch_combo omni_oscaro-eng
