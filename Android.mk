@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),OP535DL1)
+ifeq ($(TARGET_DEVICE),oscaro)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
