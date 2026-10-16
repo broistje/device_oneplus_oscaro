@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_OP535DL1.mk
+    $(local-dir)/omni_oscaro.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_OP535DL1-user \
