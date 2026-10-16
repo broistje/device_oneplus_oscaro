@@ -15,8 +15,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Inherit from OP535DL1 device
 $(call inherit-product, device/oneplus/OP535DL1/device.mk)
 
-PRODUCT_DEVICE := OP535DL1
-PRODUCT_NAME := omni_OP535DL1
+PRODUCT_DEVICE := oscaro
+PRODUCT_NAME := omni_oscaro
 PRODUCT_BRAND := oneplus
 PRODUCT_MODEL := CPH2381
 PRODUCT_MANUFACTURER := oneplus
@@ -24,6 +24,6 @@ PRODUCT_MANUFACTURER := oneplus
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="OP535DL1-user 14 UKQ1.230924.001 S.23d3b43-3-2 release-keys"
+    PRIVATE_BUILD_DESC="oscaro-user 14 UKQ1.230924.001 S.23d3b43-3-2 release-keys"
 
-BUILD_FINGERPRINT := OnePlus/CPH2381/OP535DL1:14/UKQ1.230924.001/S.23d3b43-3-2:user/release-keys
+BUILD_FINGERPRINT := OnePlus/CPH2381/oscaro:14/UKQ1.230924.001/S.23d3b43-3-2:user/release-keys
