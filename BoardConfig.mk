@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/oneplus/OP535DL1
+DEVICE_PATH := device/oneplus/oscaro
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
